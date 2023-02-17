@@ -5,4 +5,4 @@ One of the key concepts in mathematical modeling of infectious diseases is the b
 
 Understanding the basic reproduction number is essential in predicting the spread of the disease and in evaluating the impact of different control strategies. In this assignment, we will develop a mathematical model of Ebola using the basic reproduction number and explore the implications of different control measures on the spread of the disease.
 
-[image](final_image2.png)
+![image](final_image2.png)
